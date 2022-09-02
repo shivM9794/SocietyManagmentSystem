@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_baseline_people_outline_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_call.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_city.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_committee.xml" value="0.2375" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_emergency.xml" value="0.2375" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_local_services.xml" value="0.2375" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_outline_design_services_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_outline_emergency_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_outline_monetization_on_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_outline_person_search_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_outline_report_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_outline_share_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_profile.xml" value="0.26614583333333336" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_report_problem.xml" value="0.2375" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_share.xml" value="0.2375" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/ic_sms.xml" value="0.2375" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/drawable/rounded_btn_bg.xml" value="0.2625" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_add_family_members.xml" value="0.24635416666666668" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_add_your_home.xml" value="0.24635416666666668" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_emergency_numbers.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_events.xml" value="0.22708333333333333" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_events_inner.xml" value="0.24635416666666668" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_local_services.xml" value="0.22135416666666666" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_lsinner.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_mobile_registration.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_mobilr_registration.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_notices.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_otp_verification.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_personal_details.xml" value="0.24635416666666668" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_resident_committee.xml" value="0.22135416666666666" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_select_city.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/emergency_number.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/events.xml" value="0.22708333333333333" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/local_services.xml" value="0.22135416666666666" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/maid.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/notices.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/resident_committee.xml" value="0.22135416666666666" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/selectcity.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/layout/side_nav_header.xml" value="0.25" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19739583333333333" />
+        <entry key="..\:/SocietyManagmentSystem/app/src/main/res/menu/side_nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

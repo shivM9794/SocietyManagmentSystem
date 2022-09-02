@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocietyManagmentSystem</string>
+
+    <string name="notice">Contary to pouplar beliefs, Lorem ipsum is not\nsimply random text <font color='#f37022'>Read More</font></string>
+</resources>

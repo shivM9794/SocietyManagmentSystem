@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.societymanagementsystem.com">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SocietyManagmentSystem">
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.AddFamilyMembers"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.BottomNavBar.EventsInnerActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.Activity.AddYourHome"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.PersonalDetails"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.SelectCityActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.LSInnerActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.BottomNavBar.NoticesActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.BottomNavBar.EventsActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.ResidentCommittee"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.EmergencyNumbers"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SideNavBar.LocalServices"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.Activity.DashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.Activity.OtpVerificationActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.Activity.Mobile_RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.societymanagementsystem.View.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
